@@ -11,5 +11,18 @@
 
   b.指定环境目录：
 
+![image](https://github.com/swuljq/anaconda/blob/master/%E5%88%9B%E5%BB%BA%E7%8E%AF%E5%A2%832.png?raw=true)
 
-  
+
+2、删除环境
+在下拉选择框中选择要删除的环境名称，然后点击“删除环境”按钮。
+
+
+![image](https://github.com/swuljq/anaconda/blob/master/%E5%88%A0%E9%99%A4%E7%8E%AF%E5%A2%83.png?raw=true)
+
+
+3、打开环境
+在下拉选择框中选择要打开的环境名称，然后点击“打开环境”按钮，此时会打开windows终端，然后进入到虚拟环境里。
+
+
+![image](https://github.com/swuljq/anaconda/blob/master/%E6%89%93%E5%BC%80%E7%8E%AF%E5%A2%83.png?raw=true)
